@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/majd-samer-website/',
+  base: '/',
   title: 'Majd Samer',
   description: 'Personal website of Majd Samer - Software Developer',
   head: [
