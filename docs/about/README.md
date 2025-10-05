@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-Hi! I'm **Majd Samer**, a passionate [your profession - e.g., software developer, student, designer]. 
+Hi! I'm **Majd Samer**, a passionate software developer
 
 I love creating things and solving problems with technology.
 
@@ -21,6 +21,8 @@ I love creating things and solving problems with technology.
 - JavaScript
 - Python
 - HTML/CSS
+- 3D designe
+
 
 
 ### Technologies & Tools
@@ -28,6 +30,8 @@ I love creating things and solving problems with technology.
 - Node.js
 - Git & GitHub
 - VS Code
+- Lightburn 
+
 
 ---
 
@@ -36,7 +40,7 @@ I love creating things and solving problems with technology.
 - 💡 Learning new technologies
 - 🎮 Gaming in my free time
 - 📚 Reading tech blogs
-- 🎵 Listening to music while coding
+- 🎵 Listening to music 
 
 ---
 
