@@ -10,8 +10,8 @@ I love creating things and solving problems with technology.
 
 ## 🎓 Education
 
-**Your University/School Name**  
-*Your Degree/Program* | 2020 - Present
+**Salahaddin university**  
+*Software Enginner* | 2020 - Present
 
 ---
 
@@ -21,14 +21,13 @@ I love creating things and solving problems with technology.
 - JavaScript
 - Python
 - HTML/CSS
-- [Add your languages]
+
 
 ### Technologies & Tools
 - React
 - Node.js
 - Git & GitHub
 - VS Code
-- [Add your tools]
 
 ---
 
