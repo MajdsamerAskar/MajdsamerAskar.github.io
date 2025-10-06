@@ -1,43 +1,54 @@
 /* Custom colors and fonts */
-:root {
-  --accent-color: #3eaf7c;
-  --text-color: #2c3e50;
-}
+:root
+  --accent-color: #3eaf7c
+  --text-color: #2c3e50
 
 /* Hero section */
-.home .hero h1 {
-  font-size: 3rem;
-  color: var(--accent-color);
-}
+.home .hero h1
+  font-size: 3rem
+  color: var(--accent-color)
 
-.home .hero .description {
-  font-size: 1.4rem;
-  color: #666;
-}
+.home .hero .description
+  font-size: 1.4rem
+  color: #666
 
 /* Feature cards with hover effect */
-.home .feature {
-  padding: 1.5rem;
-  border-radius: 10px;
-  transition: all 0.3s;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-}
+.home .feature
+  padding: 1.5rem
+  border-radius: 10px
+  transition: all 0.3s
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05)
 
-.home .feature:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
-}
+.home .feature:hover
+  transform: translateY(-5px)
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1)
 
 /* Navigation bar */
-.navbar {
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
+.navbar
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1)
 
 /* Links */
-a {
-  color: var(--accent-color);
-}
+a
+  color: var(--accent-color)
 
-a:hover {
-  text-decoration: underline;
-}
+a:hover
+  text-decoration: underline
+
+/* CV Download Button */
+.cv-download-btn
+  display: inline-block
+  padding: 12px 24px
+  background-color: #3eaf7c
+  color: white
+  text-decoration: none
+  border-radius: 6px
+  font-weight: bold
+  transition: background-color 0.3s
+  
+  &:hover
+    background-color: #2d8f63
+    /* Home Content Wrapper */
+.home-content
+  max-width: 900px
+  margin: 0 auto
+  padding: 2rem

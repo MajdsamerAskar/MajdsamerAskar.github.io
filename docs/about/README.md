@@ -11,7 +11,7 @@ I love creating things and solving problems with technology.
 ## 🎓 Education
 
 **Salahaddin university**  
-*Software Enginner* | 2020 - Present
+*Software Engineer* | 2020 - Present
 
 ---
 
@@ -21,9 +21,7 @@ I love creating things and solving problems with technology.
 - JavaScript
 - Python
 - HTML/CSS
-- 3D designe
-
-
+- 3D design
 
 ### Technologies & Tools
 - React
@@ -31,7 +29,6 @@ I love creating things and solving problems with technology.
 - Git & GitHub
 - VS Code
 - Lightburn 
-
 
 ---
 
@@ -41,6 +38,13 @@ I love creating things and solving problems with technology.
 - 🎮 Gaming in my free time
 - 📚 Reading tech blogs
 - 🎵 Listening to music 
+
+---
+## 📄 Resume
+
+<a href="/Majd_Askar_Resume.pdf" download class="cv-download-btn">
+  📥 Download My CV
+</a>
 
 ---
 

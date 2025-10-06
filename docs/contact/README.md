@@ -11,9 +11,9 @@ I'd love to hear from you! Feel free to reach out through any of these channels:
 
 ## 🌐 Social Media
 
-- **GitHub:** [github.com/majdsamer](https://github.com/majdsamerasker)
-- **LinkedIn:** [linkedin.com/in/majdsamer](https://linkedin.com/in/majdsamer)
-- **Twitter:** [@majdsamer](https://twitter.com/majdsamer)
+- **GitHub:** [@MajdsamerAskar](https://github.com/MajdsamerAskar)
+- **LinkedIn:** [@majdsamer](https://linkedin.com/in/majdsamer)
+- **Instagram:** [@Majd_S_Askar](https://www.instagram.com/majd_s_askar)
 
 ---
 
