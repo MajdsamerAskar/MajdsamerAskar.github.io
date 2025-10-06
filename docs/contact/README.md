@@ -6,13 +6,12 @@ I'd love to hear from you! Feel free to reach out through any of these channels:
 
 ## 📧 Email
 
-**majdsamer@example.com**
-
+**majdsamer14@gmail.com**
 ---
 
 ## 🌐 Social Media
 
-- **GitHub:** [github.com/majdsamer](https://github.com/majdsamer)
+- **GitHub:** [github.com/majdsamer](https://github.com/majdsamerasker)
 - **LinkedIn:** [linkedin.com/in/majdsamer](https://linkedin.com/in/majdsamer)
 - **Twitter:** [@majdsamer](https://twitter.com/majdsamer)
 
